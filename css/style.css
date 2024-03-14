@@ -59,8 +59,9 @@ ul {
     color: #2E2F42;
 }
 
-header>nav li {
+nav li .link {
     font-weight: 500;
+    color: #2E2F42;
 }
 
 .studio {
